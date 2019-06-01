@@ -1,4 +1,4 @@
-### Clover EFI HP EliteBook 8470p
+### Clover HP EliteBook 8470p
 ### MacOS Sierra 10.12.6
 
 | Feature | Description |
