@@ -1,6 +1,7 @@
 ### Clover EFI HP EliteBook 8470p
-MacOS Sierra 10.12.6
+### MacOS Sierra 10.12.6
 
+| Feature | Description |
 | ------- | ----------- |
 | Processor | Intel Core i5-3320M |
 | Graphics | Intel HD Graphics 4000 |
