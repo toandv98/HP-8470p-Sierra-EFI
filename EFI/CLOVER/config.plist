@@ -298,6 +298,22 @@
 					<key>Type</key>
 					<string>Other</string>
 				</dict>
+				<dict>
+					<key>Disabled</key>
+					<false/>
+					<key>FullTitle</key>
+					<string>reFind Boot</string>
+					<key>Ignore</key>
+					<false/>
+					<key>NoCaches</key>
+					<false/>
+					<key>Path</key>
+					<string>\EFI\refind\refind_x64.efi</string>
+					<key>Type</key>
+					<string>Other</string>
+					<key>Volume</key>
+					<string>03213C8D-02C6-4928-977D-559ADFD2FBAA</string>
+				</dict>
 			</array>
 		</dict>
 		<key>Hide</key>
@@ -329,7 +345,7 @@
 		<key>ScreenResolution</key>
 		<string>1366x768</string>
 		<key>Theme</key>
-		<string>BeautyX</string>
+		<string>3DGREY</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
