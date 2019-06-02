@@ -1,5 +1,5 @@
 
-Clover EFI installer log - Sun Jun  2 00:16:44 +07 2019
+Clover EFI installer log - Sun Jun  2 12:38:25 +07 2019
 Installer version: v2.4k r4934 EFI bootloader
 ======================================================
 /dev/disk0 (internal, physical):
@@ -20,7 +20,6 @@ Installer version: v2.4k r4934 EFI bootloader
 ======================================================
 Backing up EFI files
 
-Backing up /Volumes/macOS/EFIROOTDIR/EFI folder to /Volumes/macOS/EFI-Backups/r4934/2019-06-02-00h16/EFI
 ======================================================
 Installing BootSectors/BootLoader
 
@@ -32,6 +31,8 @@ Installing RC Scripts
 Installing RC scripts on target volume '/'
 
 
+Theme 'Clovy' (defined in config.plist) not found !
+Using default theme 'embedded'
 ======================================================
 =========== Clover EFI Installation Finish ===========
 ======================================================

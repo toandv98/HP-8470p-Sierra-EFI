@@ -322,14 +322,10 @@
 		</array>
 		<key>Mouse</key>
 		<dict>
-			<key>DoubleClick</key>
-			<integer>500</integer>
 			<key>Enabled</key>
-			<true/>
+			<false/>
 			<key>Mirror</key>
 			<false/>
-			<key>Speed</key>
-			<integer>8</integer>
 		</dict>
 		<key>Scan</key>
 		<dict>
@@ -345,7 +341,7 @@
 		<key>ScreenResolution</key>
 		<string>1366x768</string>
 		<key>Theme</key>
-		<string>3DGREY</string>
+		<string>BeautyX</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
